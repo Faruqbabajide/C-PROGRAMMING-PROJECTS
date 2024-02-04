@@ -1,0 +1,105 @@
+Test Results:
+
+Question 1:
+4. What is the powerhouse of the cell? A. Nucleus B. Mitochondria C. Endoplasmic reticulum D. Golgi apparatus
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 2:
+5. In which year did the United States declare its independence? A. 1776 B. 1789 C. 1801 D. 1812
+Correct Option: A
+Your Option   : A
+Correct!
+
+Question 3:
+6. What is the square root of 25? A. 3 B. 5 C. 7 D. 9
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 4:
+7. Which planet is known as the "Red Planet"? A. Venus B. Mars C. Jupiter D. Neptune
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 5:
+8. Who painted the Mona Lisa? A. Vincent van Gogh B. Leonardo da Vinci C. Pablo Picasso D. Claude Monet
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 6:
+9. What is the chemical symbol for gold? A. Au B. Ag C. Fe D. Cu
+Correct Option: A
+Your Option   : A
+Correct!
+
+Question 7:
+10. Which ocean is the largest? A. Atlantic Ocean B. Indian Ocean C. Pacific Ocean D. Arctic Ocean
+Correct Option: C
+Your Option   : A
+Incorrect!
+
+Question 8:
+11. Who is the author of the Harry Potter series? A. J.K. Rowling B. George R.R. Martin C. Stephen King D. Suzanne Collins
+Correct Option: A
+Your Option   : A
+Correct!
+
+Question 9:
+12. What is the capital of Japan? A. Beijing B. Tokyo C. Seoul D. Bangkok
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 10:
+13. What is the main function of the lungs? A. Digestion B. Respiration C. Circulation D. Excretion
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 11:
+14. Who discovered penicillin? A. Alexander Fleming B. Marie Curie C. Louis Pasteur D. Albert Einstein
+Correct Option: A
+Your Option   : A
+Correct!
+
+Question 12:
+15. What is the largest mammal on Earth? A. Elephant B. Blue whale C. Giraffe D. Dolphin
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 13:
+16. In what year did the Titanic sink? A. 1912 B. 1923 C. 1905 D. 1931
+Correct Option: A
+Your Option   : A
+Correct!
+
+Question 14:
+17. What is the capital of Australia? A. Sydney B. Melbourne C. Canberra D. Brisbane
+Correct Option: C
+Your Option   : A
+Incorrect!
+
+Question 15:
+18. Which gas makes up the majority of Earth's atmosphere? A. Oxygen B. Nitrogen C. Carbon dioxide D. Hydrogen
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 16:
+19. Who developed the theory of relativity? A. Isaac Newton B. Albert Einstein C. Galileo Galilei D. Johannes Kepler
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Question 17:
+20. What is the process by which plants make their own food? A. Respiration B. Photosynthesis C. Transpiration D. Fermentation
+Correct Option: B
+Your Option   : A
+Incorrect!
+
+Total Score: 5 out of 17

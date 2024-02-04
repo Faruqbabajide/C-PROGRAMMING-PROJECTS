@@ -1,0 +1,10 @@
+Jane Smith,5678 85.5 82.3 85.58
+Mark Johnson,9876 50.00 32.00 50.03
+Emily Davis,6543 98.00 98.00 98.00
+Michael Brown,3456 76.80 74.50 76.30
+Sarah Williams,7890 88.20 85.70 87.00
+Robert Miller,4321 79.30 77.10 78.60
+Olivia Taylor,2109 95.20 91.80 93.50
+Christopher Wilson,8765 81.70 79.60 82.80
+Ashley Martinez,5432 89.50 86.90 87.10
+Brian Jones,1098 74.60 72.30 73.20
